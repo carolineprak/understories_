@@ -97,13 +97,13 @@ Emotional Resonance draws from narrative frameworks. Personal Relevance assesses
 Hope/Doom Balance evaluates narrative arc—moving from problem to agency to possibility.
 
 ### 2. Ethical Guardrails
-6 principles across the AI lifecycle ensure non-maleficence, autonomy, and justice. See [ai-ethics.md](framework/ai-ethics.md).
+6 principles across the AI lifecycle ensure non-maleficence, autonomy, and justice. 
 
 **Key commitments:** 
 AI suggests, humans decide. Citations for every recommendation. No optimization for manipulation.
 
 ### 3. Environmental Transparency
-Carbon cost disclosure for every evaluation. See [environmental-impact.md](framework/environmental-impact.md).
+Carbon cost disclosure for every evaluation. 
 
 **Impact:** 
 ~6,500 kg CO₂/year at scale — negligible compared to campaigns enabled.
@@ -122,47 +122,21 @@ Rather than teaching storytelling separately, Understories evaluates whether mes
 ---
 
 ## Proof of Demand
-**This isn't theory. It's already working.**
+**This isn't theory**
 
 **Beta Testing (In Progress):**
 - Framework tested on real campaigns across 3 continents
 - Case studies show 5/10 → 9/10 improvements in message effectiveness
 - Predicted impact: +152% revenue increase, +213% engagement improvement
 
-**Next Phase:**
+**Next:**
 - 20 partners across 5 countries
 - Comparative database tracking real-world campaign outcomes
 - Open-source community contributions
 
-[Contact for beta access](#about)
-
 ---
-
-## Project Status
-**Current Phase:** Framework complete. Beta testing in progress. AI delivery system in development.
-
-**In Development:**
-- AI delivery system (real-time evaluation with citations)
-- Expanded research base (target: 75+ reports)
-- Legal review and terms of use
-- Peer validation from climate communications researchers
 
 **Disclaimer:** This framework represents the author's synthesis of climate communications research. While all sources are cited, this has not yet undergone formal peer review. Use as guidance, not gospel. Beta testing and expert validation ongoing.
-
----
-## How to Use This Repository
-
-### For Developers:
-- Code coming soon (AI delivery layer in development)
-- Framework is public and usable now
-- Contributions welcome once codebase is live
-
-### For Funders/Partners:
-- Contact for partnership inquiries
-
----
-## Research Foundation
-Understories synthesizes findings from 50+ reports including:
 
 ---
 ## Contributing
@@ -195,4 +169,4 @@ This framework builds on decades of research from climate communications scholar
 Special thanks to the research communities whose work makes this possible.
 
 ---
-*Last updated: February 2026*
+*Last updated: April 2026*
